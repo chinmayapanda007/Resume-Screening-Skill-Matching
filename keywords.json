@@ -1,0 +1,36 @@
+{
+  "role": "UiPath Agentic AI Developer",
+  "skills": [
+    "UiPath Development",
+    "UiPath",
+    "Automation Anywhere",
+    "GenAI",
+    "Generative AI",
+    "RPA",
+    "Agentic AI",
+    "Autonomous Agents",
+    "AI/ML Concepts",
+    "Prompt Engineering",
+    "Context-Aware Automation",
+    "API Integration",
+    "Document Understanding",
+    "AI-Powered Decision Making",
+    "Production Troubleshooting"
+  ],
+  "tools": [
+    "UiPath Studio",
+    "UiPath Orchestrator",
+    "UiPath AI Center",
+    "Vertex AI"
+  ],
+  "bonus": [
+    "UiPath Advanced RPA Developer Certification",
+    "UiPath AI Center Specialist Certification",
+    "GenAI",
+    "LLM-based Automation"
+  ],
+  "experience_requirements": {
+    "total_experience_years": "3-12",
+    "agentic_ai_experience_years": "1+"
+  }
+}
